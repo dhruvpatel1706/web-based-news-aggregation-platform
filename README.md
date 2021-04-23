@@ -1,4 +1,4 @@
-# @eb-based-news-aggregation-platform
+# Web-based-news-aggregation-platform
 
 In today’s scenario there is a huge amount of news content present online there are thousands of
 news channels and news site portals where there are millions of articles . Today everyone is busy
